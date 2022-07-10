@@ -15,6 +15,7 @@ Regarding the goal of this project, it has been built to experience an end to en
 - Spring Web
 - Spring Security
 - Spring Data JPA
+- Jasypt
 - Postgres
 - Thymeleaf
 - AWS Elastic Beanstalk
