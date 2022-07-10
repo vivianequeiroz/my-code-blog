@@ -6,6 +6,9 @@ The app's deploy will occur at the AWS Elastic Beanstalk due to its easy and fas
 
 Regarding the goal of this project, it has been built to experience an end to end process of building and deploying a web application inside the Spring Boot environment and as a consequence obtain an improvement at my knowledge about the pros and cons of these technologies.
 
+     The project has been developed based on the Youtube playlist "Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk" from the Brazilian tech channel
+    <a href= "https://www.youtube.com/c/MichelliBrito"> Michelli Brito </a>
+
 # Technologies
 
 - Java Spring Boot
