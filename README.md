@@ -1,12 +1,10 @@
 # MyCodeBlog
 
-This blog has been created by using SSR in Java and JPA Repository to establish communication with the database.
-The web application allows the visualization and creation of posts for the people interested in programming topics.
+This blog is a web application that allows the visualization and creation of posts for the people interested in programming topics. It has been created though a SSR approach in Java with Spring Boot.
 
-The deploy of the app will occur at the Elastic Beanstalk due to its easy and fast configuration, and Amazon RDS will 
-be used to deploy the Postgres relational database.
+The app's deploy will occur at the Elastic Beanstalk due to its easy and fast configuration, and the relational database Postgres will be deployed at Amazon RDS. 
 
-And the goal of this project is to have an end to end experience of building and deploying a web application inside the Spring Boot environment in order to improve my knowledge about the pros and cons of these technologies.
+Regarding the goal of this project, it has been built to experience an end to end process of building and deploying a web application inside the Spring Boot environment and as a consequence obtain an improvement at my knowledge about the pros and cons of these technologies.
 
 # Technologies
 
